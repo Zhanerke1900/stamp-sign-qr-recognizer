@@ -1,0 +1,7 @@
+
+flask
+flask-cors
+ultralytics
+pymupdf
+PyPDF2
+Pillow
